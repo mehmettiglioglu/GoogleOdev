@@ -1,0 +1,33 @@
+ .searchBtn{
+text-align: center;
+}
+.bottomBox1{
+    text-align: center;
+    background-color:#7ee5da ;
+    width:440px ;
+    height: 70px;
+    margin: -13px 0px 0px 60px;
+}
+.lineHeight{
+    line-height: 0.01%;
+    font-size: 12px;
+}
+.bottomBox2{
+    text-align: center;
+    background-color: #70CCC2;
+    width: 250px;
+    margin:-70px -100px 0px 502px;
+    height: 70px;
+}
+.bottomBox3{
+    text-align: center;
+    background-color:#62B3AA;
+    width: 442px;
+    height: 70px;
+    margin: -70px 0px 0px 754px;
+    font-size :12px;
+   
+    
+}
+
+
