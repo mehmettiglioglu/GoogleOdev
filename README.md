@@ -1,7 +1,7 @@
 # GoogleOdev
  Patika.dev Front-End eğitimi kapsamında verilen ödevdir.
 # Ödev Görseli
-![image/screenshot.png]
+![Ödev Görseli](image/screenshot.png)
 # Ödev İçeriği
  Google'ın eski görünümünü tasarlama ödevidir.
  Ödevde .html ,.css ve image dosyası bulunmaktadır.
