@@ -4,7 +4,7 @@ text-align: center;
 .bottomBox1{
     text-align: center;
     background-color:#7ee5da ;
-    width:440px ;
+    width:600px ;
     height: 70px;
     margin: -13px 0px 0px 60px;
 }
@@ -15,16 +15,16 @@ text-align: center;
 .bottomBox2{
     text-align: center;
     background-color: #70CCC2;
-    width: 250px;
-    margin:-70px -100px 0px 502px;
+    width: 350px;
+    margin:-70px -100px 0px 662px;
     height: 70px;
 }
 .bottomBox3{
     text-align: center;
     background-color:#62B3AA;
-    width: 878px;
+    width: 618px;
     height: 70px;
-    margin: -70px 0px 0px 754px;
+    margin: -70px 0px 0px 1014px;
     font-size :12px;
    
     
